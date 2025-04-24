@@ -5,7 +5,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache&logoColor=white)](https://spark.apache.org/docs/latest/api/python/index.html)
 
-> A distributed computing approach to analyzing weblog data through fuzzy clustering techniques and machine learning algorithms
+> A distributed computing approachs to analyzing weblog data through fuzzy clustering techniques and machine learning algorithms
 
 ![Clustering Banner](https://via.placeholder.com/1200x200?text=Fuzzy+Clustering+with+Spark)
 
